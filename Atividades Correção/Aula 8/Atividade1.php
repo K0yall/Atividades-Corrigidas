@@ -1,7 +1,7 @@
 <?php
 
-define("NOME", "Guilherme");
-define("SOBRENOME", "Afonso Casa");
+define("NOME", "Lucas");
+define("SOBRENOME", "Silva");
 
 
 $NOME = NOME . " " . SOBRENOME;
